@@ -8,7 +8,7 @@
 
 Client, server and a native toolchain around **Rappelz** — maintained and developed by **Makenci**.
 
-[Website](https://arcane-rappelz.com/) · [Client & server](#client--server) · [14 tools](#the-toolchain) · [Developer](https://github.com/tomsmulski) · [Deutsch](#deutsch)
+[Website](https://arcane-rappelz.com/) · [Client & server](#client--server) · [13 tools](#the-toolchain) · [Developer](https://github.com/tomsmulski) · [Deutsch](#deutsch)
 
 </div>
 
@@ -37,7 +37,7 @@ Client, server and a native toolchain around **Rappelz** — maintained and deve
 
 ### The toolchain
 
-A family of **14 dedicated tools** supports content authoring, resource workflows and development. Many of the modern desktop tools use C++23, Dear ImGui and DirectX 11; individual products retain their own platform and compatibility requirements.
+A family of **13 Rappelz-focused tools** supports content authoring, resource workflows and development. Many of the modern desktop tools use C++23, Dear ImGui and DirectX 11; individual products retain their own platform and compatibility requirements.
 
 | Tool | Purpose |
 | --- | --- |
@@ -53,8 +53,9 @@ A family of **14 dedicated tools** supports content authoring, resource workflow
 | **ClientForge** | Browsing, extracting and rebuilding client archives. |
 | **ItemShopEditor** | Editing the in-game shop catalogue. |
 | **AdminUserTool** | Read-only inspection of account, character and related data. |
-| **BuildManager** | Build workflows, queues, history and reports. |
 | **Arcane Launcher** | Game startup, downloads, patching, repair and self-update. |
+
+**Shared build tooling:** [BuildManager](https://github.com/tomsmulski#buildmanager) is Makenci’s cross-project tool for coordinating builds across Rappelz and the Android/APK projects. It is maintained under the personal account and is not an Arcane-only tool.
 
 **Development is ongoing.** Source changes, compiled builds and practical validation are separate milestones. This overview does not claim that every component is fully tested, publicly downloadable or available as a live service.
 
@@ -78,7 +79,7 @@ A family of **14 dedicated tools** supports content authoring, resource workflow
 
 **Server:** Arbeit an Spielsystemen, Lua-Skripting, Zeitplanung, Netzwerkverarbeitung und Datenbankanbindung. Technische Grundlage: C++, Windows, Lua und SQL Server.
 
-### 14 Werkzeuge für die Arbeit dahinter
+### 13 Werkzeuge für die Arbeit dahinter
 
 | Werkzeug | Aufgabe |
 | --- | --- |
@@ -94,10 +95,11 @@ A family of **14 dedicated tools** supports content authoring, resource workflow
 | **ClientForge** | Clientarchive durchsuchen, entpacken und neu aufbauen. |
 | **ItemShopEditor** | Den Katalog des Ingame-Shops bearbeiten. |
 | **AdminUserTool** | Konten, Charaktere und zugehörige Daten lesend untersuchen. |
-| **BuildManager** | Builds, Warteschlangen, Verlauf und Berichte verwalten. |
 | **Arcane Launcher** | Spielstart, Downloads, Patches, Reparatur und Selbstaktualisierung. |
 
 Viele moderne Desktop-Tools setzen auf **C++23, Dear ImGui und DirectX 11**. Einzelne Programme behalten ihre eigenen Plattform- und Kompatibilitätsvorgaben.
+
+**Gemeinsam genutztes Build-Werkzeug:** Der [BuildManager](https://github.com/tomsmulski#buildmanager) koordiniert Builds sowohl für Rappelz als auch für die Android-/APK-Projekte. Er bleibt unter Makencis persönlichem Account und gehört nicht ausschließlich zu Arcane RZ.
 
 **Das Projekt wird weiterentwickelt.** Quelländerung, gebautes Programm und praktische Prüfung sind unterschiedliche Stände. Die Übersicht verspricht weder vollständige Abnahme aller Komponenten noch öffentliche Downloads oder einen verfügbaren Spielbetrieb.
 
