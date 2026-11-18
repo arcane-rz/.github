@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arcane-rz/.github/main/assets/arcane-rz.jpg" width="330" alt="Arcane RZ — silver and gold lettering, violet crystal and dragon-wing crest">
+<img src="https://raw.githubusercontent.com/arcane-rz/.github/main/assets/arcane-rz-readme-banner-v1.jpg" width="100%" alt="Arcane RZ — horizontal fantasy wordmark with silver-gold lettering, violet crystal and dragon wings">
 
 # Arcane RZ
 
@@ -16,7 +16,7 @@ Client, server and a native toolchain around **Rappelz** — maintained and deve
 
 ## Beyond the game world
 
-Arcane RZ brings together work around **Rappelz** and the tools that support it. This organisation gives the project its own home, separate from the original apps and games of MAK Digital Studio.
+**Arcane RZ** is dedicated to the technical development of a Rappelz-related project — from client and server work to the editors, resource tools and launcher behind the experience.
 
 ### Client & server
 
@@ -70,7 +70,7 @@ A family of **14 dedicated tools** supports content authoring, resource workflow
 
 ### Eine bekannte Welt. Ein eigener Projektauftritt.
 
-**Arcane RZ** bündelt die Arbeit von **Makenci** an Rappelz-Client, Server und einer eigenen Familie nativer Werkzeuge. Die Organisation bekommt damit ein eigenes Zuhause, getrennt von den eigenständigen Apps und Spielen von MAK Digital Studio.
+**Arcane RZ** steht für die technische Weiterentwicklung eines Projekts rund um Rappelz – von Client und Server bis zu den Editoren, Ressourcenwerkzeugen und dem Launcher dahinter.
 
 ### Client und Server
 
